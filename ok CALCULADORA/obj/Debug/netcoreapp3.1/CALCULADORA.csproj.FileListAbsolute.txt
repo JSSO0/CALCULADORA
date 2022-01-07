@@ -1,0 +1,17 @@
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\CALCULADORA\bin\Debug\netcoreapp3.1\CALCULADORA.exe
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\CALCULADORA\bin\Debug\netcoreapp3.1\CALCULADORA.deps.json
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\CALCULADORA\bin\Debug\netcoreapp3.1\CALCULADORA.runtimeconfig.json
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\CALCULADORA\bin\Debug\netcoreapp3.1\CALCULADORA.runtimeconfig.dev.json
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\CALCULADORA\bin\Debug\netcoreapp3.1\CALCULADORA.dll
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\CALCULADORA\bin\Debug\netcoreapp3.1\CALCULADORA.pdb
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\CALCULADORA\obj\Debug\netcoreapp3.1\CALCULADORA.csproj.AssemblyReference.cache
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\CALCULADORA\obj\Debug\netcoreapp3.1\CALCULADORA.Form1.resources
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\CALCULADORA\obj\Debug\netcoreapp3.1\CALCULADORA.Properties.Resources.resources
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\CALCULADORA\obj\Debug\netcoreapp3.1\CALCULADORA.csproj.GenerateResource.cache
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\CALCULADORA\obj\Debug\netcoreapp3.1\CALCULADORA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\CALCULADORA\obj\Debug\netcoreapp3.1\CALCULADORA.AssemblyInfoInputs.cache
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\CALCULADORA\obj\Debug\netcoreapp3.1\CALCULADORA.AssemblyInfo.cs
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\CALCULADORA\obj\Debug\netcoreapp3.1\CALCULADORA.csproj.CoreCompileInputs.cache
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\CALCULADORA\obj\Debug\netcoreapp3.1\CALCULADORA.dll
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\CALCULADORA\obj\Debug\netcoreapp3.1\CALCULADORA.pdb
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\CALCULADORA\obj\Debug\netcoreapp3.1\CALCULADORA.genruntimeconfig.cache
